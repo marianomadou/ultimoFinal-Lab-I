@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1532968170 source:c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1532968135 c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\arraylist.h
+
+1532964977 source:c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"letras.h"
+	"dataManager.h"
+
+1532979463 c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\letras.h
+	"ArrayList.h"
+	"dataManager.h"
+	"vista.h"
+	"lib.h"
+
+1532515290 c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\datamanager.h
+	"ArrayList.h"
+	"letras.h"
+
+1532515290 c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\vista.h
+
+1532515290 c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\lib.h
+
+1532978704 source:c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\letras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"letras.h"
+
+1532515290 source:c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"lib.h"
+
+1532978725 source:c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\main.c
+	<stdio.h>
+	<stdlib.h>
+	"letras.h"
+	"vista.h"
+	"dataManager.h"
+	"lib.h"
+
+1532965574 source:c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\vista.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"vista.h"
+
+1532965143 source:c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\control.c
+	<stdio.h>
+	<stdlib.h>
+	"control.h"
+	"lib.h"
+
+1532515290 c:\users\administrador\downloads\apuntes tecnicatura\programacion\para subir a git\final_letras_ok\control.h
+
